@@ -20,3 +20,8 @@ Users can exit the program.
 # Usage
 The program provides a simple way to manage parking records for different vehicle types.
 Users can easily navigate through the menu to perform various operations.
+
+# Author
+Anjon Chakrabarty 
+
+ID: 222-115-235
